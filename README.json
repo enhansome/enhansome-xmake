@@ -123,7 +123,7 @@
             "last_commit": "2026-08-06T07:39:55Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27095
+            "stars": 27096
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-04T04:55:36Z",
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5119
+            "stars": 5120
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-05-27T13:28:59Z",
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4209
+            "stars": 4211
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-12T18:50:21Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3430
+            "stars": 3439
           }
         },
         {
@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-09T09:59:37Z",
+            "last_commit": "2026-08-13T09:15:19Z",
             "owner": "acl-dev",
             "repo": "acl",
             "stars": 3099
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-04T06:05:19Z",
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1828
+            "stars": 1831
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:27:02Z",
+            "last_commit": "2026-08-13T17:20:33Z",
             "owner": "StereoKit",
             "repo": "StereoKit",
             "stars": 1074
@@ -302,7 +302,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T11:53:11Z",
+            "last_commit": "2026-08-14T10:22:04Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T11:53:11Z",
+            "last_commit": "2026-08-14T10:22:04Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -361,7 +361,7 @@
             "last_commit": "2021-04-22T09:33:32Z",
             "owner": "SaeruHikari",
             "repo": "SakuraEngine-Old",
-            "stars": 156
+            "stars": 155
           }
         },
         {
@@ -1078,7 +1078,7 @@
           "repo_info": {
             "archived": false,
             "language": "Xmake",
-            "last_commit": "2026-08-13T03:22:24Z",
+            "last_commit": "2026-08-14T14:20:53Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 924
@@ -1115,7 +1115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:46.719Z",
+    "last_updated": "2026-08-14T14:30:15.324Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
     "enhanced_repository": "enhansome/enhansome-xmake",
