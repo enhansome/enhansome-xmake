@@ -87,7 +87,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 331 | 🌐 Xmake | 📅 2026-08-14: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 329 | 🌐 Xmake | 📅 2026-08-15: An official xmake package repository
 
 ## Plugins
 
@@ -111,13 +111,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,096 | 🐛 225 | 🌐 C | 📅 2026-08-06: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,100 | 🐛 225 | 🌐 C | 📅 2026-08-06: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,120 | 🐛 37 | 🌐 C | 📅 2026-08-04: A glib-like multi-platform c library
 * [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,802 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 * [co](https://github.com/idealvin/co) ⭐ 4,211 | 🐛 14 | 🌐 C++ | 📅 2025-05-27: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,439 | 🐛 5 | 🌐 C++ | 📅 2026-08-12: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,440 | 🐛 5 | 🌐 C++ | 📅 2026-08-12: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,099 | 🐛 40 | 🌐 C | 📅 2026-08-13: An advanced C/C++ Network library
-* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,831 | 🐛 2 | 🌐 C++ | 📅 2026-08-04: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,833 | 🐛 2 | 🌐 C++ | 📅 2026-08-04: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,074 | 🐛 161 | 🌐 C++ | 📅 2026-08-13: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
 * [ltui](https://github.com/tboox/ltui) ⭐ 875 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 537 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
@@ -148,10 +148,10 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Btk](https://github.com/BusyStudent/Btk) ⚠️ Archived: A library for developing Gui based on SDL2
 * [EasyCrossPlatform\_src](https://github.com/EasyCrossPlatformLib/EasyCrossPlatform_src) ⚠️ Archived: An easy-to-use crossplatform C++ Library, primarily for server-side development.
 * [coros](https://github.com/jfjia/coros) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2023-04-09: c++11 coroutine network library base on boost.context and libuv
+* [Vectorizer](https://github.com/DoubleCouponDay/Vectorizer) ⚠️ Archived
 * [xmake-cpputest](https://github.com/longbai/xmake-cpputest) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2022-01-07: Setup test project for embedded C development with CppUTest built using XMake
 * [UWPFlow](https://github.com/OpportunityLiu/UWPFlow) ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-06-02: UW Continuation Power Flow
 * [TensorIR](https://github.com/zhangxp1998/TensorIR) ⭐ 5 | 🐛 0 | 🌐 Scala | 📅 2020-05-28
-* [Vectorizer](https://github.com/DoubleCouponDay/Vectorizer) ⚠️ Archived
 * [srpc](https://github.com/luzhlon/srpc) ⭐ 4 | 🐛 1 | 🌐 C++ | 📅 2017-08-27: srpc是一个基于TCP流和msgpack的RPC协议
 * [userver](https://github.com/dreamtraveler/userver) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2018-10-22: A c++ game server framework based on libuv
 * [xval](https://github.com/luzhlon/xval) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2017-08-09: xval是一个轻量级的C++动态类型对象库，主要用于与其他动态语言的通信
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 331 | 🌐 Xmake | 📅 2026-08-14: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 329 | 🌐 Xmake | 📅 2026-08-15: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 44 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
