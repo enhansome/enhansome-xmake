@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-05T08:39:03Z",
+            "last_commit": "2026-08-17T01:18:38Z",
             "owner": "xmake-io",
             "repo": "xmake-vscode",
             "stars": 273
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-06T07:39:55Z",
+            "last_commit": "2026-08-17T07:11:16Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27105
+            "stars": 27113
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-09T17:54:22Z",
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4802
+            "stars": 4803
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-12T18:50:21Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3440
+            "stars": 3442
           }
         },
         {
@@ -302,7 +302,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T20:07:10Z",
+            "last_commit": "2026-08-16T15:11:43Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T20:07:10Z",
+            "last_commit": "2026-08-16T15:11:43Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -1078,10 +1078,10 @@
           "repo_info": {
             "archived": false,
             "language": "Xmake",
-            "last_commit": "2026-08-16T13:28:04Z",
+            "last_commit": "2026-08-17T13:31:56Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 924
+            "stars": 923
           }
         },
         {
@@ -1115,7 +1115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:52:24.402Z",
+    "last_updated": "2026-08-17T14:01:00.273Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
     "enhanced_repository": "enhansome/enhansome-xmake",

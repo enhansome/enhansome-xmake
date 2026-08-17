@@ -83,11 +83,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
-* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 222 | 🌐 Python | 📅 2026-07-15: Thanks [@kassane](https://github.com/kassane)
+* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 223 | 🌐 Python | 📅 2026-07-15: Thanks [@kassane](https://github.com/kassane)
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 332 | 🌐 Xmake | 📅 2026-08-16: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 923 | 🐛 332 | 🌐 Xmake | 📅 2026-08-17: An official xmake package repository
 
 ## Plugins
 
@@ -101,7 +101,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 #### IDE/Editor Plugins
 
-* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 273 | 🐛 72 | 🌐 TypeScript | 📅 2026-06-05: A VSCode plugin for xmake
+* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 273 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-17: A VSCode plugin for xmake
 * [xmake-idea](https://github.com/xmake-io/xmake-idea) ⭐ 106 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-07: A Intellij-IDEA plugin for xmake
 * [xmake-gradle](https://github.com/xmake-io/xmake-gradle) ⭐ 59 | 🐛 3 | 🌐 Groovy | 📅 2025-05-11: A gradle plugin that integrates xmake seamlessly.
 * [xmake.vim](https://github.com/luzhlon/xmake.vim) ⭐ 36 | 🐛 1 | 🌐 Vim script | 📅 2018-12-15: A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
@@ -111,11 +111,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,105 | 🐛 226 | 🌐 C | 📅 2026-08-06: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,113 | 🐛 229 | 🌐 C | 📅 2026-08-17: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,120 | 🐛 37 | 🌐 C | 📅 2026-08-04: A glib-like multi-platform c library
-* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,802 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,803 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 * [co](https://github.com/idealvin/co) ⭐ 4,211 | 🐛 14 | 🌐 C++ | 📅 2025-05-27: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,440 | 🐛 5 | 🌐 C++ | 📅 2026-08-12: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,442 | 🐛 6 | 🌐 C++ | 📅 2026-08-12: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,099 | 🐛 40 | 🌐 C | 📅 2026-08-13: An advanced C/C++ Network library
 * [zsign](https://github.com/zhlynn/zsign) ⭐ 1,835 | 🐛 2 | 🌐 C++ | 📅 2026-08-04: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,074 | 🐛 161 | 🌐 C++ | 📅 2026-08-13: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
@@ -124,8 +124,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [ElementZero](https://github.com/Element-0/ElementZero) ⚠️ Archived: Run windows version of BDS in linux with Mod support
 * [gbox](https://github.com/tboox/gbox) ⚠️ Archived：A multi-platform 2d graphic library
 * [itrace](https://github.com/tboox/itrace) ⭐ 208 | 🐛 1 | 🌐 C | 📅 2019-04-13：Trace objc method call for ios and mac
-* [nmscc](https://github.com/lumpyzhu/nmscc) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-08-14: the missing c++ 1z library.
-* [rc](https://github.com/lumpyzhu/rc) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-08-14: rc is rust in c++
+* [nmscc](https://github.com/lumpyzhu/nmscc) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-08-16: the missing c++ 1z library.
+* [rc](https://github.com/lumpyzhu/rc) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-08-16: rc is rust in c++
 * [LCUI.css](https://github.com/lc-ui/lcui.css) ⚠️ Archived: A UI component framework for building LCUI application.
 * [LC-Finder](https://github.com/lc-soft/LC-Finder) ⚠️ Archived: A simple pciture resource manager, support tag search and thumbnail preview.
 * [SakuraEngine](https://github.com/SaeruHikari/SakuraEngine) ⭐ 155 | 🐛 2 | 🌐 C++ | 📅 2021-04-22: 跨平台的现代游戏引擎
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 924 | 🐛 332 | 🌐 Xmake | 📅 2026-08-16: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 923 | 🐛 332 | 🌐 Xmake | 📅 2026-08-17: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
