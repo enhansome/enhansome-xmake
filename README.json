@@ -1,116 +1,125 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xmake-vscode",
+              "description": "A VSCode plugin for xmake",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105385229,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T04:42:09Z",
+                "owner": "xmake-io",
+                "repo": "xmake-vscode",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake-idea",
+              "description": "A Intellij-IDEA plugin for xmake",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108999121,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T04:09:18Z",
+                "owner": "xmake-io",
+                "repo": "xmake-idea",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake-gradle",
+              "description": "A gradle plugin that integrates xmake seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252766473,
+                "language": "Groovy",
+                "last_commit": "2025-05-11T12:57:36Z",
+                "owner": "xmake-io",
+                "repo": "xmake-gradle",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake.vim",
+              "description": "A third-party vim plugin for xmake, thanks @luzhlon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86422608,
+                "language": "Vim script",
+                "last_commit": "2018-12-15T07:01:59Z",
+                "owner": "luzhlon",
+                "repo": "xmake.vim",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake-qtcreator",
+              "description": "(third-party, thanks @Arthapz)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 427488285,
+                "language": "C++",
+                "last_commit": "2023-11-29T16:41:24Z",
+                "owner": "TAPZCREW",
+                "repo": "xmake-project-manager",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake-visualstudio",
+              "description": "(third-party, thanks @HelloWorld886)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437919652,
+                "language": "C#",
+                "last_commit": "2025-02-02T03:35:34Z",
+                "owner": "HelloWorld886",
+                "repo": "xmake-visualstudio",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmake-sublime",
+              "description": "A Sublime Text 2/3 plugin for xmake",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107938509,
+                "language": "Python",
+                "last_commit": "2024-07-15T06:38:06Z",
+                "owner": "xmake-io",
+                "repo": "xmake-sublime",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE/Editor Plugins"
+        }
+      ],
       "title": "Plugins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xmake-vscode",
-          "description": "A VSCode plugin for xmake",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T04:42:09Z",
-            "owner": "xmake-io",
-            "repo": "xmake-vscode",
-            "stars": 273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake-idea",
-          "description": "A Intellij-IDEA plugin for xmake",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T04:09:18Z",
-            "owner": "xmake-io",
-            "repo": "xmake-idea",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake-gradle",
-          "description": "A gradle plugin that integrates xmake seamlessly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2025-05-11T12:57:36Z",
-            "owner": "xmake-io",
-            "repo": "xmake-gradle",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake.vim",
-          "description": "A third-party vim plugin for xmake, thanks @luzhlon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2018-12-15T07:01:59Z",
-            "owner": "luzhlon",
-            "repo": "xmake.vim",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake-qtcreator",
-          "description": "(third-party, thanks @Arthapz)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-11-29T16:41:24Z",
-            "owner": "TAPZCREW",
-            "repo": "xmake-project-manager",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake-visualstudio",
-          "description": "(third-party, thanks @HelloWorld886)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-02-02T03:35:34Z",
-            "owner": "HelloWorld886",
-            "repo": "xmake-visualstudio",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmake-sublime",
-          "description": "A Sublime Text 2/3 plugin for xmake",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-15T06:38:06Z",
-            "owner": "xmake-io",
-            "repo": "xmake-sublime",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "IDE/Editor Plugins"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -119,11 +128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14812739,
             "language": "C",
             "last_commit": "2026-08-17T18:53:01Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27116
+            "stars": 27120
           }
         },
         {
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1595099,
             "language": "C",
             "last_commit": "2026-08-04T04:55:36Z",
             "owner": "tboox",
@@ -147,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320921453,
             "language": "C++",
             "last_commit": "2026-05-09T17:54:22Z",
             "owner": "maximegmd",
@@ -161,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220810918,
             "language": "C++",
             "last_commit": "2025-05-27T13:28:59Z",
             "owner": "idealvin",
@@ -175,11 +188,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5103141,
             "language": "C++",
-            "last_commit": "2026-08-18T06:48:02Z",
+            "last_commit": "2026-08-18T15:21:06Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3446
+            "stars": 3452
           }
         },
         {
@@ -189,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6111297,
             "language": "C",
             "last_commit": "2026-08-13T09:15:19Z",
             "owner": "acl-dev",
@@ -203,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209476862,
             "language": "C++",
             "last_commit": "2026-08-04T06:05:19Z",
             "owner": "zhlynn",
@@ -217,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196094870,
             "language": "C++",
             "last_commit": "2026-08-13T17:20:33Z",
             "owner": "StereoKit",
@@ -231,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159041314,
             "language": "C",
             "last_commit": "2024-08-07T15:17:57Z",
             "owner": "tboox",
@@ -245,6 +263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64183833,
             "language": "C",
             "last_commit": "2021-11-02T02:36:13Z",
             "owner": "tboox",
@@ -259,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 238628146,
             "language": "C++",
             "last_commit": "2020-12-02T19:10:06Z",
             "owner": "Element-0",
@@ -273,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23615667,
             "language": "C",
             "last_commit": "2023-10-10T03:47:05Z",
             "owner": "tboox",
@@ -287,6 +308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23460053,
             "language": "C",
             "last_commit": "2019-04-13T12:56:41Z",
             "owner": "hack0z",
@@ -301,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99512138,
             "language": "C++",
             "last_commit": "2026-08-16T15:11:43Z",
             "owner": "zxlxz",
@@ -315,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99512138,
             "language": "C++",
             "last_commit": "2026-08-16T15:11:43Z",
             "owner": "zxlxz",
@@ -329,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94611014,
             "language": "C",
             "last_commit": "2020-10-13T02:30:14Z",
             "owner": "lcui-dev",
@@ -343,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48375304,
             "language": "C",
             "last_commit": "2023-02-28T01:28:29Z",
             "owner": "lc-soft",
@@ -357,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237664770,
             "language": "C++",
             "last_commit": "2021-04-22T09:33:32Z",
             "owner": "SaeruHikari",
@@ -371,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90993410,
             "language": "C",
             "last_commit": "2026-04-06T07:29:47Z",
             "owner": "uael",
@@ -385,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246274623,
             "language": "C++",
             "last_commit": "2020-03-11T07:24:43Z",
             "owner": "Leopard-C",
@@ -399,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150015581,
             "language": "C++",
             "last_commit": "2024-08-26T12:41:29Z",
             "owner": "DigitalPulseSoftware",
@@ -413,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67011094,
             "language": "C",
             "last_commit": "2021-09-27T09:43:25Z",
             "owner": "tboox",
@@ -427,6 +458,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 226655969,
             "language": "C",
             "last_commit": "2023-05-10T15:25:42Z",
             "owner": "lcui-dev",
@@ -441,6 +473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193354737,
             "language": "C++",
             "last_commit": "2025-11-29T13:46:50Z",
             "owner": "tiltedphoques",
@@ -455,6 +488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229776162,
             "language": "C",
             "last_commit": "2020-01-09T11:35:19Z",
             "owner": "codehz",
@@ -469,6 +503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97457699,
             "language": "C++",
             "last_commit": "2017-07-23T07:02:12Z",
             "owner": "luzhlon",
@@ -483,6 +518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212288085,
             "language": "C",
             "last_commit": "2025-04-26T14:08:52Z",
             "owner": "acl-dev",
@@ -497,6 +533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84333224,
             "language": "C++",
             "last_commit": "2017-04-18T09:54:27Z",
             "owner": "lidroid",
@@ -511,6 +548,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199876805,
             "language": "C++",
             "last_commit": "2026-01-08T06:26:12Z",
             "owner": "tiltedphoques",
@@ -525,6 +563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330717546,
             "language": "C++",
             "last_commit": "2022-07-28T15:38:44Z",
             "owner": "wicast",
@@ -539,6 +578,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 201754420,
             "language": "C",
             "last_commit": "2021-08-12T02:07:23Z",
             "owner": "lc-soft",
@@ -553,6 +593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14005414,
             "language": "Lua",
             "last_commit": "2021-03-29T06:23:11Z",
             "owner": "hilarryxu",
@@ -567,6 +608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209823040,
             "language": "C",
             "last_commit": "2019-12-24T13:54:17Z",
             "owner": "Yunoinsky",
@@ -581,6 +623,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 300274099,
             "language": "C",
             "last_commit": "2022-06-16T08:39:33Z",
             "owner": "BusyStudent",
@@ -595,6 +638,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 300274099,
             "language": "C",
             "last_commit": "2022-06-16T08:39:33Z",
             "owner": "BusyStudent",
@@ -609,6 +653,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112515088,
             "language": "C++",
             "last_commit": "2021-07-15T08:01:58Z",
             "owner": "InteractivePlus",
@@ -623,6 +668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204005402,
             "language": "C++",
             "last_commit": "2023-04-09T02:43:10Z",
             "owner": "jfjia",
@@ -637,6 +683,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 279217921,
             "language": "C",
             "last_commit": "2024-02-10T19:55:00Z",
             "owner": "DoubleCouponDay",
@@ -651,6 +698,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64598328,
             "language": "C",
             "last_commit": "2022-01-07T06:57:18Z",
             "owner": "longbai",
@@ -665,6 +713,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211640366,
             "language": "C++",
             "last_commit": "2026-06-02T09:19:21Z",
             "owner": "OpportunityLiu",
@@ -679,6 +728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236219508,
             "language": "Scala",
             "last_commit": "2020-05-28T23:58:39Z",
             "owner": "zhangxp1998",
@@ -693,6 +743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99300326,
             "language": "C++",
             "last_commit": "2017-08-27T16:31:45Z",
             "owner": "luzhlon",
@@ -707,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150544368,
             "language": "C",
             "last_commit": "2018-10-22T10:55:11Z",
             "owner": "dreamtraveler",
@@ -721,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99299789,
             "language": "C++",
             "last_commit": "2017-08-09T15:40:50Z",
             "owner": "luzhlon",
@@ -735,6 +788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229207741,
             "language": "C",
             "last_commit": "2019-12-20T10:33:38Z",
             "owner": "codehz",
@@ -749,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210494348,
             "language": "C++",
             "last_commit": "2020-02-06T07:34:25Z",
             "owner": "garraGH",
@@ -763,6 +818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233339071,
             "language": "C",
             "last_commit": "2023-07-05T12:44:42Z",
             "owner": "liurunzhan",
@@ -777,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240599965,
             "language": "C++",
             "last_commit": "2021-03-17T16:42:20Z",
             "owner": "WubiCookie",
@@ -791,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77129890,
             "language": "C++",
             "last_commit": "2016-12-22T09:23:21Z",
             "owner": "wyy584322202",
@@ -805,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292422146,
             "language": "C",
             "last_commit": "2020-10-09T01:42:17Z",
             "owner": "zinul",
@@ -819,6 +878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104607422,
             "language": "Rust",
             "last_commit": "2020-03-12T03:33:02Z",
             "owner": "frostRed",
@@ -833,6 +893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133482470,
             "language": "C++",
             "last_commit": "2018-05-15T08:11:26Z",
             "owner": "xyliuke",
@@ -847,6 +908,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93993625,
             "language": "C++",
             "last_commit": "2017-10-14T12:52:25Z",
             "owner": "DATechnologyStudio",
@@ -861,6 +923,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225033588,
             "language": "C++",
             "last_commit": "2019-12-04T08:16:03Z",
             "owner": "wrren",
@@ -875,6 +938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177246338,
             "language": "C",
             "last_commit": "2019-12-15T15:11:22Z",
             "owner": "libyyu",
@@ -889,6 +953,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248810903,
             "language": "C++",
             "last_commit": "2020-04-20T16:23:17Z",
             "owner": "Evan2698",
@@ -903,6 +968,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292803756,
             "language": "C++",
             "last_commit": "2020-10-21T10:08:42Z",
             "owner": "wrren",
@@ -917,6 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298724072,
             "language": "C++",
             "last_commit": "2020-11-07T09:21:59Z",
             "owner": "bamceil",
@@ -931,6 +998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303085307,
             "language": "C",
             "last_commit": "2020-10-11T09:29:17Z",
             "owner": "jaratma",
@@ -945,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302272991,
             "language": "C++",
             "last_commit": "2021-04-14T11:25:15Z",
             "owner": "bamceil",
@@ -959,6 +1028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301098288,
             "language": "C++",
             "last_commit": "2020-10-04T10:32:07Z",
             "owner": "bamceil",
@@ -973,102 +1043,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295287266,
             "language": "C++",
             "last_commit": "2021-05-17T15:30:12Z",
             "owner": "vsensu",
             "repo": "mot",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitMsg",
-          "description": "encrypted messaging to replace E-Mail",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "wTest",
-          "description": "wTest is a Weightless OI/ACM Tester,which can take place of cena and lowsars on Linux,and it also supports Windows.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "LightInk3D",
-          "description": "3d engine develop from urho3d",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "libBG",
-          "description": "A lightwight high-speed good-designed big interger library for C++ with FFT",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "cyOS",
-          "description": "一个岩岩小天使正在做的操作系统",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "NaturalLanguage",
-          "description": "An imitation of the C++ language.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "mobula",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "shadowssh_rule_c",
-          "description": "the calculation lib example of shadowssh",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Re.Write.Down",
-          "description": "A Markup Language and it's C++ compiler.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "moosey",
-          "description": "Moosey is an open-source RDBMS written in modern C++",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "lua-format",
-          "description": "Reformats your Lua source code.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "cv_learning",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "MQBuilder",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "TiltedOnline",
-          "description": "Skyrim and Fallout 4 mod to play online!",
-          "children": []
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1077,8 +1064,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-18T13:35:15Z",
+            "last_commit": "2026-08-19T12:20:38Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 924
@@ -1091,32 +1079,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211770706,
             "language": "TypeScript",
             "last_commit": "2026-03-13T10:27:43Z",
             "owner": "xmake-io",
             "repo": "github-action-setup-xmake",
             "stars": 45
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-xmake-logo",
-          "description": "The logo icon for xmake. Thanks @TitanSnow",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "ts-xmake-gui",
-          "description": "An ugly xmake gui",
-          "children": []
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:05:24.892Z",
+    "last_updated": "2026-08-19T12:58:24.877Z",
     "original_repository": "xmake-examples/awesome-xmake",
+    "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
     "enhanced_repository": "enhansome/enhansome-xmake",
     "enhanced_repository_description": null,
