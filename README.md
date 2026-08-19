@@ -101,7 +101,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 #### IDE/Editor Plugins
 
-* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 272 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-18: A VSCode plugin for xmake
+* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 273 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-18: A VSCode plugin for xmake
 * [xmake-idea](https://github.com/xmake-io/xmake-idea) ⭐ 106 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-18: A Intellij-IDEA plugin for xmake
 * [xmake-gradle](https://github.com/xmake-io/xmake-gradle) ⭐ 59 | 🐛 3 | 🌐 Groovy | 📅 2025-05-11: A gradle plugin that integrates xmake seamlessly.
 * [xmake.vim](https://github.com/luzhlon/xmake.vim) ⭐ 36 | 🐛 1 | 🌐 Vim script | 📅 2018-12-15: A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
@@ -111,7 +111,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,120 | 🐛 229 | 🌐 C | 📅 2026-08-17: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,120 | 🐛 230 | 🌐 C | 📅 2026-08-17: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,120 | 🐛 37 | 🌐 C | 📅 2026-08-04: A glib-like multi-platform c library
 * [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,803 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 * [co](https://github.com/idealvin/co) ⭐ 4,211 | 🐛 14 | 🌐 C++ | 📅 2025-05-27: An elegant and efficient C++ basic library for Linux, Windows and Mac.

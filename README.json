@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T04:42:09Z",
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 272
+                "stars": 273
               }
             },
             {
@@ -1066,7 +1066,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-19T12:20:38Z",
+            "last_commit": "2026-08-19T13:36:34Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 924
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:24.877Z",
+    "last_updated": "2026-08-19T14:05:40.258Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
