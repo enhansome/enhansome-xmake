@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 105385229,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T04:42:09Z",
+                "last_commit": "2026-08-19T14:47:15Z",
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
                 "stars": 273
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 14812739,
             "language": "C",
-            "last_commit": "2026-08-17T18:53:01Z",
+            "last_commit": "2026-08-20T09:27:28Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27120
+            "stars": 27122
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2025-05-27T13:28:59Z",
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4211
+            "stars": 4212
           }
         },
         {
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 5103141,
             "language": "C++",
-            "last_commit": "2026-08-18T15:21:06Z",
+            "last_commit": "2026-08-20T11:41:07Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3452
+            "stars": 3453
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-13T09:15:19Z",
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-19T13:36:34Z",
+            "last_commit": "2026-08-20T13:38:24Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 924
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:05:40.258Z",
+    "last_updated": "2026-08-20T14:07:39.079Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
