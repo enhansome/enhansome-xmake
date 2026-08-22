@@ -163,7 +163,7 @@
             "last_commit": "2026-05-09T17:54:22Z",
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4803
+            "stars": 4804
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2025-05-27T13:28:59Z",
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4212
+            "stars": 4211
           }
         },
         {
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 5103141,
             "language": "C++",
-            "last_commit": "2026-08-21T05:56:53Z",
+            "last_commit": "2026-08-22T13:40:44Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3456
+            "stars": 3458
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-21T04:54:03Z",
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1837
+            "stars": 1838
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-21T13:37:16Z",
+            "last_commit": "2026-08-22T13:24:09Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 924
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:05:51.844Z",
+    "last_updated": "2026-08-22T13:51:16.555Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
