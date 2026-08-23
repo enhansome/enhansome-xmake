@@ -133,7 +133,7 @@
             "last_commit": "2026-08-20T09:27:28Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27125
+            "stars": 27126
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-05-09T17:54:22Z",
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4804
+            "stars": 4805
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-21T04:54:03Z",
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1838
+            "stars": 1841
           }
         },
         {
@@ -325,7 +325,7 @@
             "archived": false,
             "id": 99512138,
             "language": "C++",
-            "last_commit": "2026-08-21T07:53:50Z",
+            "last_commit": "2026-08-22T18:44:08Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -340,7 +340,7 @@
             "archived": false,
             "id": 99512138,
             "language": "C++",
-            "last_commit": "2026-08-21T07:53:50Z",
+            "last_commit": "2026-08-22T18:44:08Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -1066,10 +1066,10 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-22T13:24:09Z",
+            "last_commit": "2026-08-23T13:25:46Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 924
+            "stars": 925
           }
         },
         {
@@ -1092,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:51:16.555Z",
+    "last_updated": "2026-08-23T13:53:24.842Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
