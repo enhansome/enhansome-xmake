@@ -4,6 +4,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Dash-docsets (xmake)",
+          "description": "Thanks @kassane",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18875357,
+            "language": "Python",
+            "last_commit": "2026-07-15T15:02:32Z",
+            "owner": "Kapeli",
+            "repo": "Dash-User-Contributions",
+            "stars": 2056
+          }
+        }
+      ],
+      "title": "Documents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xmake-repo",
+          "description": "An official xmake package repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87712244,
+            "language": "Xmake",
+            "last_commit": "2026-08-24T14:31:25Z",
+            "owner": "xmake-io",
+            "repo": "xmake-repo",
+            "stars": 925
+          }
+        }
+      ],
+      "title": "Repositories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -32,7 +74,7 @@
                 "last_commit": "2026-08-18T04:09:18Z",
                 "owner": "xmake-io",
                 "repo": "xmake-idea",
-                "stars": 106
+                "stars": 107
               }
             },
             {
@@ -133,7 +175,7 @@
             "last_commit": "2026-08-20T09:27:28Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27126
+            "stars": 27127
           }
         },
         {
@@ -178,7 +220,7 @@
             "last_commit": "2025-05-27T13:28:59Z",
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4211
+            "stars": 4210
           }
         },
         {
@@ -193,7 +235,7 @@
             "last_commit": "2026-08-22T13:40:44Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3458
+            "stars": 3464
           }
         },
         {
@@ -223,7 +265,7 @@
             "last_commit": "2026-08-21T04:54:03Z",
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1841
+            "stars": 1842
           }
         },
         {
@@ -238,7 +280,7 @@
             "last_commit": "2026-08-20T20:22:33Z",
             "owner": "StereoKit",
             "repo": "StereoKit",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -325,7 +367,7 @@
             "archived": false,
             "id": 99512138,
             "language": "C++",
-            "last_commit": "2026-08-22T18:44:08Z",
+            "last_commit": "2026-08-24T03:41:58Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -340,7 +382,7 @@
             "archived": false,
             "id": 99512138,
             "language": "C++",
-            "last_commit": "2026-08-22T18:44:08Z",
+            "last_commit": "2026-08-24T03:41:58Z",
             "owner": "zxlxz",
             "repo": "sfc",
             "stars": 208
@@ -475,7 +517,7 @@
             "archived": false,
             "id": 193354737,
             "language": "C++",
-            "last_commit": "2025-11-29T13:46:50Z",
+            "last_commit": "2026-08-23T22:11:42Z",
             "owner": "tiltedphoques",
             "repo": "TiltedCore",
             "stars": 19
@@ -1066,7 +1108,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-23T13:25:46Z",
+            "last_commit": "2026-08-24T14:31:25Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 925
@@ -1092,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:53:24.842Z",
+    "last_updated": "2026-08-24T14:38:22.222Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
