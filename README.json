@@ -33,7 +33,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-24T14:31:25Z",
+            "last_commit": "2026-08-24T15:04:38Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 925
@@ -1108,7 +1108,7 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-24T14:31:25Z",
+            "last_commit": "2026-08-24T15:04:38Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 925
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:22.222Z",
+    "last_updated": "2026-08-24T15:07:18.159Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
