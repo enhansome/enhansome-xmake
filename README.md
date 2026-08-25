@@ -87,7 +87,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 925 | 🐛 339 | 🌐 Xmake | 📅 2026-08-24: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 925 | 🐛 342 | 🌐 Xmake | 📅 2026-08-25: An official xmake package repository
 
 ## Plugins
 
@@ -111,15 +111,15 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,127 | 🐛 227 | 🌐 C | 📅 2026-08-20: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,128 | 🐛 228 | 🌐 C | 📅 2026-08-20: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,121 | 🐛 37 | 🌐 C | 📅 2026-08-04: A glib-like multi-platform c library
-* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,805 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
-* [co](https://github.com/idealvin/co) ⭐ 4,210 | 🐛 14 | 🌐 C++ | 📅 2025-05-27: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,464 | 🐛 5 | 🌐 C++ | 📅 2026-08-22: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,806 | 🐛 39 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+* [co](https://github.com/idealvin/co) ⭐ 4,211 | 🐛 14 | 🌐 C++ | 📅 2025-05-27: An elegant and efficient C++ basic library for Linux, Windows and Mac.
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,465 | 🐛 5 | 🌐 C++ | 📅 2026-08-22: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,100 | 🐛 40 | 🌐 C | 📅 2026-08-13: An advanced C/C++ Network library
-* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,842 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,843 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,075 | 🐛 160 | 🌐 C++ | 📅 2026-08-20: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
-* [ltui](https://github.com/tboox/ltui) ⭐ 875 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
+* [ltui](https://github.com/tboox/ltui) ⭐ 876 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 537 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
 * [ElementZero](https://github.com/Element-0/ElementZero) ⚠️ Archived: Run windows version of BDS in linux with Mod support
 * [gbox](https://github.com/tboox/gbox) ⚠️ Archived：A multi-platform 2d graphic library
@@ -134,7 +134,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [BurgWar](https://github.com/DigitalPulseSoftware/BurgWar) ⭐ 54 | 🐛 23 | 🌐 C++ | 📅 2024-08-26: Burg'war est un jeu de plateforme/combat multijoueur en 2D écrit en C++17/Lua avec mon propre moteur de jeu : Nazara Engine.
 * [benchbox](https://github.com/tboox/benchbox) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2021-09-27: The Benchmark Testing Box
 * [lcui-router-app](https://github.com/lc-ui/lcui-router-app) ⚠️ Archived: A simple application for LCUI Router
-* [TiltedCore](https://github.com/tiltedphoques/TiltedCore) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2026-08-23: This is the core library used by all C++ projects by Tilted Phoques.
+* [TiltedCore](https://github.com/tiltedphoques/TiltedCore) ⭐ 19 | 🐛 1 | 🌐 C++ | 📅 2026-08-24: This is the core library used by all C++ projects by Tilted Phoques.
 * [ctxco](https://github.com/codehz/ctxco) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2020-01-09: Minimal (and intuitive to use) coroutine implement in c
 * [websocket-cpp](https://github.com/luzhlon/websocket-cpp) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2017-07-23: websocket-protocol's implementation with multithread synchronization model in C++
 * [libfiber](https://github.com/acl-dev/libfiber) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2025-04-26: The high performance coroutine library for Linux/FreeBSD/Windows, supporting select/poll/epoll/kqueue/iocp/windows GUI
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 925 | 🐛 339 | 🌐 Xmake | 📅 2026-08-24: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 925 | 🐛 342 | 🌐 Xmake | 📅 2026-08-25: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
