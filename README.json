@@ -33,10 +33,10 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-25T14:10:06Z",
+            "last_commit": "2026-08-26T13:45:36Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 926
+            "stars": 928
           }
         }
       ],
@@ -175,7 +175,7 @@
             "last_commit": "2026-08-20T09:27:28Z",
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27128
+            "stars": 27131
           }
         },
         {
@@ -232,10 +232,10 @@
             "archived": false,
             "id": 5103141,
             "language": "C++",
-            "last_commit": "2026-08-22T13:40:44Z",
+            "last_commit": "2026-08-26T08:34:01Z",
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3468
+            "stars": 3469
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-08-21T04:54:03Z",
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1845
+            "stars": 1846
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-20T20:22:33Z",
             "owner": "StereoKit",
             "repo": "StereoKit",
-            "stars": 1075
+            "stars": 1077
           }
         },
         {
@@ -1108,10 +1108,10 @@
             "archived": false,
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-25T14:10:06Z",
+            "last_commit": "2026-08-26T13:45:36Z",
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 926
+            "stars": 928
           }
         },
         {
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:12:44.295Z",
+    "last_updated": "2026-08-26T14:10:29.025Z",
     "original_repository": "xmake-examples/awesome-xmake",
     "original_repository_id": 137888556,
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
