@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dash repo of user contributed docsets",
+            "homepage": null,
             "id": 18875357,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T19:55:07Z",
+            "open_issues": 201,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
-            "stars": 2055
+            "stars": 2055,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         }
@@ -32,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 An official xmake package repository ",
+            "homepage": "https://packages.xmake.io",
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-28T19:41:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:32:21Z",
+            "open_issues": 336,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 929
+            "stars": 929,
+            "topics": [
+              "build",
+              "cross-platform",
+              "package",
+              "repository",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         }
@@ -56,12 +72,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍩 A XMake integration in Visual Studio Code",
+                "homepage": "https://xmake.io",
                 "id": 105385229,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T14:47:15Z",
+                "open_issues": 71,
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "editor-plugin",
+                  "lua",
+                  "plugin",
+                  "visual-studio",
+                  "vscode",
+                  "xmake",
+                  "xmake-vscode"
+                ]
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -72,12 +101,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍨 A XMake integration in IntelliJ IDEA",
+                "homepage": "https://xmake.io",
                 "id": 108999121,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T04:09:18Z",
+                "open_issues": 6,
                 "owner": "xmake-io",
                 "repo": "xmake-idea",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "build-system",
+                  "cross-platform",
+                  "intellij",
+                  "intellij-idea",
+                  "intellij-plugin",
+                  "lua",
+                  "xmake"
+                ]
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -88,12 +130,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gradle plugin that integrates xmake seamlessly",
+                "homepage": "https://xmake.io",
                 "id": 252766473,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-11T12:57:36Z",
+                "open_issues": 3,
                 "owner": "xmake-io",
                 "repo": "xmake-gradle",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "android-studio",
+                  "gradle-plugin",
+                  "xmake",
+                  "xmake-gradle"
+                ]
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -104,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xmake的vim插件",
+                "homepage": null,
                 "id": 86422608,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2018-12-15T07:01:59Z",
+                "open_issues": 1,
                 "owner": "luzhlon",
                 "repo": "xmake.vim",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -120,12 +177,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "QtCreator XMake plugin",
+                "homepage": null,
                 "id": 427488285,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-29T16:41:24Z",
+                "open_issues": 1,
                 "owner": "TAPZCREW",
                 "repo": "xmake-project-manager",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "qtcreator",
+                  "qtcreator-plugin",
+                  "xmake",
+                  "xmake-qtcreator"
+                ]
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -136,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xmake plugin for visual studio",
+                "homepage": null,
                 "id": 437919652,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-02T03:35:34Z",
+                "open_issues": 5,
                 "owner": "HelloWorld886",
                 "repo": "xmake-visualstudio",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             },
@@ -152,12 +224,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍔 A XMake integration in Sublime Text",
+                "homepage": "https://xmake.io",
                 "id": 107938509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-15T06:38:06Z",
+                "open_issues": 1,
                 "owner": "xmake-io",
                 "repo": "xmake-sublime",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "cross-platform",
+                  "ide",
+                  "lua",
+                  "plugin",
+                  "sublime-text",
+                  "sublime-text-3",
+                  "xmake"
+                ]
               },
               "first_seen": "2026-08-28T23:08:13.505Z"
             }
@@ -179,12 +264,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform asynchronous I/O",
+            "homepage": "https://libuv.org/",
             "id": 14812739,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-20T09:27:28Z",
+            "open_issues": 234,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27143
+            "stars": 27142,
+            "topics": [
+              "asynchronous",
+              "deep-io",
+              "io",
+              "networking",
+              "unicorns",
+              "unix",
+              "velociraptors",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -195,12 +294,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎁 A glib-like multi-platform c library",
+            "homepage": "https://tboox.top",
             "id": 1595099,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:17:36Z",
+            "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5121
+            "stars": 5121,
+            "topics": [
+              "algorithm",
+              "container",
+              "coroutines",
+              "cross-platform",
+              "iterator",
+              "json",
+              "network",
+              "plist",
+              "stream",
+              "tbox",
+              "xmake",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -211,12 +328,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cyberpunk 2077 tweaks, hacks and scripting framework",
+            "homepage": null,
             "id": 320921453,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-09T17:54:22Z",
+            "open_issues": 39,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4807
+            "stars": 4807,
+            "topics": [
+              "cyberpunk",
+              "cyberpunk2077"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -227,12 +352,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny boost library in C++11.",
+            "homepage": null,
             "id": 220810918,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-27T13:28:59Z",
+            "open_issues": 14,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4211
+            "stars": 4211,
+            "topics": [
+              "benchmark",
+              "coroutine",
+              "flag",
+              "json",
+              "log",
+              "rpc",
+              "unit-test"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -243,12 +381,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。",
+            "homepage": "http://hikyuu.org/",
             "id": 5103141,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:11:43Z",
+            "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3472
+            "stars": 3472,
+            "topics": [
+              "algorithms-trading",
+              "backtesting",
+              "finance",
+              "quant",
+              "stock",
+              "system-trading",
+              "trading",
+              "vestment"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -259,12 +411,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, Harmony,etc..",
+            "homepage": "https://acl-dev.cn",
             "id": 6111297,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-13T09:15:19Z",
+            "open_issues": 40,
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3100
+            "stars": 3100,
+            "topics": [
+              "coroutine",
+              "cplusplus",
+              "database",
+              "fiber",
+              "http",
+              "http-client",
+              "http-server",
+              "https",
+              "memcached-clients",
+              "mqtt-client",
+              "mqtt-protocol",
+              "network",
+              "redis",
+              "redis-client",
+              "smtp",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -275,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Cross-Platform iOS Code Signing Tool",
+            "homepage": null,
             "id": 209476862,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-21T04:54:03Z",
+            "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1848
+            "stars": 1848,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -291,12 +470,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy-to-use XR engine for building AR and VR applications with C# and OpenXR!",
+            "homepage": "https://stereokit.net/Pages/Guides/Getting-Started.html",
             "id": 196094870,
             "language": "C++",
-            "last_commit": "2026-08-28T21:05:15Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:55:11Z",
+            "open_issues": 162,
             "owner": "StereoKit",
             "repo": "StereoKit",
-            "stars": 1078
+            "stars": 1078,
+            "topics": [
+              "ar",
+              "augmented-reality",
+              "csharp-library",
+              "gltf",
+              "hololens",
+              "mixed-reality",
+              "mr",
+              "openxr",
+              "rendering",
+              "virtual-reality",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -307,12 +503,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🍖 A cross-platform terminal ui library based on Lua",
+            "homepage": "https://tboox.org",
             "id": 159041314,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T15:17:57Z",
+            "open_issues": 6,
             "owner": "tboox",
             "repo": "ltui",
-            "stars": 876
+            "stars": 876,
+            "topics": [
+              "curses",
+              "lua",
+              "terminal",
+              "tui",
+              "ui",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -323,12 +531,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍔 A x86 Script Instruction Virtual Machine",
+            "homepage": "https://tboox.org",
             "id": 64183833,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-02T02:36:13Z",
+            "open_issues": 1,
             "owner": "tboox",
             "repo": "vm86",
-            "stars": 537
+            "stars": 537,
+            "topics": [
+              "assembly",
+              "i386",
+              "ida",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -339,12 +557,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run windows version of BDS in linux with Mod support",
+            "homepage": null,
             "id": 238628146,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-02T19:10:06Z",
+            "open_issues": 50,
             "owner": "Element-0",
             "repo": "ElementZero",
-            "stars": 269
+            "stars": 269,
+            "topics": [
+              "bds",
+              "bedrock-server-mod",
+              "minecraft",
+              "mod-support"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -355,12 +583,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🎨 A multi-platform graphic library",
+            "homepage": "https://tboox.org",
             "id": 23615667,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-10T03:47:05Z",
+            "open_issues": 0,
             "owner": "tboox",
             "repo": "gbox",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "algorithm",
+              "drawing",
+              "framebuffer",
+              "glut",
+              "graphics-library",
+              "opengles",
+              "sdl"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -371,12 +612,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rust.std in c++",
+            "homepage": null,
             "id": 99512138,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T03:41:58Z",
+            "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "cpp",
+              "rust",
+              "scientific"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -387,12 +637,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rust.std in c++",
+            "homepage": null,
             "id": 99512138,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T03:41:58Z",
+            "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "cpp",
+              "rust",
+              "scientific"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -403,12 +662,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍰 Trace objc method call for ios and mac",
+            "homepage": "https://tboox.org",
             "id": 23460053,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-13T12:56:41Z",
+            "open_issues": 1,
             "owner": "hack0z",
             "repo": "itrace",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "hacking",
+              "ios",
+              "jailbreak",
+              "method",
+              "objc",
+              "trace"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -419,12 +690,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A UI component framework for building LCUI application.",
+            "homepage": null,
             "id": 94611014,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-10-13T02:30:14Z",
+            "open_issues": 0,
             "owner": "lcui-dev",
             "repo": "lc-design",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "bootstrap",
+              "china",
+              "css",
+              "css-framework",
+              "lcui",
+              "nodejs",
+              "python",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -435,12 +720,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An image annotation and object detection tool written in C",
+            "homepage": "https://lcfinder.lc-soft.io",
             "id": 48375304,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2023-02-28T01:28:29Z",
+            "open_issues": 4,
             "owner": "lc-soft",
             "repo": "LC-Finder",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "cross-platform",
+              "deep-learning",
+              "detection",
+              "image-annotation",
+              "recognition",
+              "tools",
+              "uwp"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -451,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-Platform Game Engine",
+            "homepage": null,
             "id": 237664770,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-04-22T09:33:32Z",
+            "open_issues": 2,
             "owner": "SaeruHikari",
             "repo": "SakuraEngine-Old",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -467,12 +770,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libsv - Public domain cross-platform semantic versioning in c99",
+            "homepage": null,
             "id": 90993410,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2026-04-06T07:29:47Z",
+            "open_issues": 3,
             "owner": "uael",
             "repo": "sv",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "c99",
+              "cross-platform",
+              "library",
+              "public-domain",
+              "semantic-versioning"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -483,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【Qt】【C++】五子棋游戏，游戏双方联网对战。（服务器+客户端）",
+            "homepage": null,
             "id": 246274623,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-03-11T07:24:43Z",
+            "open_issues": 2,
             "owner": "Leopard-C",
             "repo": "Gobang",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -499,12 +818,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Burg'war est un jeu de plateforme/combat multijoueur en 2D écrit en C++17/Lua avec mon propre moteur de jeu : Nazara Engine.",
+            "homepage": null,
             "id": 150015581,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-08-26T12:41:29Z",
+            "open_issues": 23,
             "owner": "DigitalPulseSoftware",
             "repo": "BurgWar",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "cplusplus-17",
+              "cplusplus-games",
+              "indiegame",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -515,12 +844,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🧀 The Benchmark Testing Box ",
+            "homepage": "https://tboox.org",
             "id": 67011094,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-27T09:43:25Z",
+            "open_issues": 0,
             "owner": "tboox",
             "repo": "benchbox",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "benchmark",
+              "coroutine",
+              "tbox",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -531,12 +870,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A very simple browser-like application to show the LCUI and LCUI Router features",
+            "homepage": null,
             "id": 226655969,
             "language": "C",
+            "license": "CC0-1.0",
             "last_commit": "2023-05-10T15:25:42Z",
+            "open_issues": 0,
             "owner": "lcui-dev",
             "repo": "lcui-router-app",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "lcui",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -547,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the core library used by all C++ projects by Tilted Phoques.",
+            "homepage": null,
             "id": 193354737,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:28:07Z",
+            "open_issues": 1,
             "owner": "tiltedphoques",
             "repo": "TiltedCore",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -563,12 +915,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal (and intuitive to use) coroutine implement in c",
+            "homepage": null,
             "id": 229776162,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-01-09T11:35:19Z",
+            "open_issues": 0,
             "owner": "codehz",
             "repo": "ctxco",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "c",
+              "coroutine",
+              "epoll",
+              "iouring",
+              "library",
+              "linux",
+              "mit-license",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -579,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "websocket-protocol's implementation with multithread synchronization model in C++",
+            "homepage": null,
             "id": 97457699,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-07-23T07:02:12Z",
+            "open_issues": 1,
             "owner": "luzhlon",
             "repo": "websocket-cpp",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -595,12 +966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The high performance coroutine library for Linux/FreeBSD/MacOS/Windows, supporting select/poll/epoll/kqueue/iocp/windows GUI",
+            "homepage": null,
             "id": 212288085,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2025-04-26T14:08:52Z",
+            "open_issues": 0,
             "owner": "acl-dev",
             "repo": "libfiber",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -611,12 +987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WunderList-like TODO list based on sciter",
+            "homepage": null,
             "id": 84333224,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-04-18T09:54:27Z",
+            "open_issues": 0,
             "owner": "lidroid",
             "repo": "sciter-todolist",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -627,12 +1008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Top layer of the network stack",
+            "homepage": null,
             "id": 199876805,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-08T06:26:12Z",
+            "open_issues": 1,
             "owner": "tiltedphoques",
             "repo": "TiltedConnect",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -643,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 330717546,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-07-28T15:38:44Z",
+            "open_issues": 0,
             "owner": "wicast",
             "repo": "CreviceEngine",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -659,12 +1050,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The official router for LCUI. ",
+            "homepage": null,
             "id": 201754420,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-08-12T02:07:23Z",
+            "open_issues": 1,
             "owner": "lc-soft",
             "repo": "lcui-router",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "c",
+              "lcui",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -675,12 +1075,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lua script engine for EverEdit",
+            "homepage": null,
             "id": 14005414,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-03-29T06:23:11Z",
+            "open_issues": 0,
             "owner": "hilarryxu",
             "repo": "eelua",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "everedit"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -691,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "这是一个THUMB的增强现实有音乐元素的美少女/美少年的抽卡氪金手游",
+            "homepage": null,
             "id": 209823040,
             "language": "C",
+            "license": null,
             "last_commit": "2019-12-24T13:54:17Z",
+            "open_issues": 0,
             "owner": "Yunoinsky",
             "repo": "Sound_THUMB",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -707,12 +1119,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library for developing Gui based on SDL2",
+            "homepage": "https://btk-project.github.io/",
             "id": 300274099,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-06-16T08:39:33Z",
+            "open_issues": 0,
             "owner": "BusyStudent",
             "repo": "Btk",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "btk",
+              "cpp17",
+              "generic",
+              "gui-toolkit",
+              "sdl2",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -723,12 +1147,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library for developing Gui based on SDL2",
+            "homepage": "https://btk-project.github.io/",
             "id": 300274099,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-06-16T08:39:33Z",
+            "open_issues": 0,
             "owner": "BusyStudent",
             "repo": "Btk",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "btk",
+              "cpp17",
+              "generic",
+              "gui-toolkit",
+              "sdl2",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -739,12 +1175,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⛳ An easy-to-use crossplatform C++ Library, primarily for server-side development.",
+            "homepage": null,
             "id": 112515088,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-07-15T08:01:58Z",
+            "open_issues": 2,
             "owner": "InteractivePlus",
             "repo": "EasyCrossPlatform_src",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cpp",
+              "crossplatform",
+              "easy-to-use",
+              "fileio",
+              "http-parser",
+              "multithreading",
+              "socket",
+              "threadpool"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -755,12 +1205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "c++11 coroutine network library base on boost.context and libuv",
+            "homepage": null,
             "id": 204005402,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-09T02:43:10Z",
+            "open_issues": 0,
             "owner": "jfjia",
             "repo": "coros",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -771,12 +1226,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discord bot that converts your chat image to a Scalable Vector Graphic.",
+            "homepage": null,
             "id": 279217921,
             "language": "C",
+            "license": null,
             "last_commit": "2024-02-10T19:55:00Z",
+            "open_issues": 8,
             "owner": "DoubleCouponDay",
             "repo": "Chunkus",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "c",
+              "cpp",
+              "docker",
+              "hacktoberfest",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -787,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setup test project for embedded C development with CppUTest built using XMake",
+            "homepage": null,
             "id": 64598328,
             "language": "C",
+            "license": null,
             "last_commit": "2022-01-07T06:57:18Z",
+            "open_issues": 0,
             "owner": "longbai",
             "repo": "xmake-cpputest",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -803,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UW Continuation Power Flow (c)1992,1996,1999, 2006 C. Canizares, F. Alvarado and S. Zhang.",
+            "homepage": null,
             "id": 211640366,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-06-02T09:19:21Z",
+            "open_issues": 1,
             "owner": "OpportunityLiu",
             "repo": "UWPFlow",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -819,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 236219508,
             "language": "Scala",
+            "license": null,
             "last_commit": "2020-05-28T23:58:39Z",
+            "open_issues": 0,
             "owner": "zhangxp1998",
             "repo": "TensorIR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -835,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 99300326,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-08-27T16:31:45Z",
+            "open_issues": 1,
             "owner": "luzhlon",
             "repo": "srpc",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -851,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A c++ game server framework based on libuv",
+            "homepage": null,
             "id": 150544368,
             "language": "C",
+            "license": null,
             "last_commit": "2018-10-22T10:55:11Z",
+            "open_issues": 0,
             "owner": "dreamtraveler",
             "repo": "userver",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -867,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 99299789,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-08-09T15:40:50Z",
+            "open_issues": 0,
             "owner": "luzhlon",
             "repo": "xval",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -883,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal HTTP library (pure)",
+            "homepage": null,
             "id": 229207741,
             "language": "C",
+            "license": null,
             "last_commit": "2019-12-20T10:33:38Z",
+            "open_issues": 0,
             "owner": "codehz",
             "repo": "ttp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -899,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for deep neural network using c++/cuda/opengl",
+            "homepage": null,
             "id": 210494348,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-06T07:34:25Z",
+            "open_issues": 0,
             "owner": "garraGH",
             "repo": "dnn",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -915,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C library for graph and mathematical analysis",
+            "homepage": null,
             "id": 233339071,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-05T12:44:42Z",
+            "open_issues": 0,
             "owner": "liurunzhan",
             "repo": "cgraph",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -931,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 240599965,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-03-17T16:42:20Z",
+            "open_issues": 0,
             "owner": "WubiCookie",
             "repo": "VkRenderer",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -947,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用ptree处理json",
+            "homepage": null,
             "id": 77129890,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-12-22T09:23:21Z",
+            "open_issues": 0,
             "owner": "wyy584322202",
             "repo": "boost_ptree_example",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -963,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "virtul fileSystem in linux",
+            "homepage": null,
             "id": 292422146,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-09T01:42:17Z",
+            "open_issues": 0,
             "owner": "zinul",
             "repo": "fileSys",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -979,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Linux programming interface codes",
+            "homepage": null,
             "id": 104607422,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-03-12T03:33:02Z",
+            "open_issues": 0,
             "owner": "frostRed",
             "repo": "tlpi_hdr",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -995,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 133482470,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-05-15T08:11:26Z",
+            "open_issues": 0,
             "owner": "xyliuke",
             "repo": "json",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1011,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A changeable data MD5 library by DA studio",
+            "homepage": null,
             "id": 93993625,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2017-10-14T12:52:25Z",
+            "open_issues": 0,
             "owner": "DATechnologyStudio",
             "repo": "DA-MD5",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1027,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code 2019 Solutions",
+            "homepage": null,
             "id": 225033588,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-12-04T08:16:03Z",
+            "open_issues": 0,
             "owner": "wrren",
             "repo": "aoc2019",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1043,12 +1589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 177246338,
             "language": "C",
+            "license": null,
             "last_commit": "2019-12-15T15:11:22Z",
+            "open_issues": 0,
             "owner": "libyyu",
             "repo": "FengEngine",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1059,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "c++ version ",
+            "homepage": null,
             "id": 248810903,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-04-20T16:23:17Z",
+            "open_issues": 0,
             "owner": "Evan2698",
             "repo": "chimney-c",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1075,12 +1631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform application for controlling monitor inputs through DDC.",
+            "homepage": null,
             "id": 292803756,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-10-21T10:08:42Z",
+            "open_issues": 0,
             "owner": "wrren",
             "repo": "kvm",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1091,12 +1652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of algs.",
+            "homepage": null,
             "id": 298724072,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-07T09:21:59Z",
+            "open_issues": 0,
             "owner": "bamceil",
             "repo": "CLRS",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1107,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swiss ephemeris ",
+            "homepage": null,
             "id": 303085307,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-11T09:29:17Z",
+            "open_issues": 0,
             "owner": "jaratma",
             "repo": "swe",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1123,12 +1694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 302272991,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-14T11:25:15Z",
+            "open_issues": 0,
             "owner": "bamceil",
             "repo": "IntroSTL",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1139,12 +1715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 301098288,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-04T10:32:07Z",
+            "open_issues": 0,
             "owner": "bamceil",
             "repo": "dson",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1155,12 +1736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern OpenGL tutorials",
+            "homepage": null,
             "id": 295287266,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-05-17T15:30:12Z",
+            "open_issues": 0,
             "owner": "vsensu",
             "repo": "mot",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         }
@@ -1177,12 +1763,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 An official xmake package repository ",
+            "homepage": "https://packages.xmake.io",
             "id": 87712244,
             "language": "Xmake",
-            "last_commit": "2026-08-28T19:41:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:32:21Z",
+            "open_issues": 336,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 929
+            "stars": 929,
+            "topics": [
+              "build",
+              "cross-platform",
+              "package",
+              "repository",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         },
@@ -1193,12 +1790,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up your GitHub Actions workflow with a specific version of xmake",
+            "homepage": "https://xmake.io",
             "id": 211770706,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-13T10:27:43Z",
+            "open_issues": 3,
             "owner": "xmake-io",
             "repo": "github-action-setup-xmake",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "ci",
+              "github-action",
+              "setup-xmake",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
         }
@@ -1207,15 +1814,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:08:13.505Z",
+    "last_updated": "2026-08-29T05:03:00.802Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
+      "homepage": "https://xmake.io",
       "id": 137888556,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2021-12-22T02:23:57Z",
+      "open_issues": 0,
       "owner": "xmake-examples",
       "repo": "awesome-xmake",
-      "stars": 72
+      "stars": 72,
+      "topics": [
+        "articles",
+        "awesome-list",
+        "cross-platform",
+        "lua",
+        "multi-platform",
+        "xmake"
+      ]
     },
     "original_repository_sha": "28c138ef3d5f51c13fa0fb2c0e88ba0d6b890999",
     "enhanced_repository": "enhansome/enhansome-xmake",
