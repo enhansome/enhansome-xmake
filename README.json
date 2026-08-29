@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-27T19:55:07Z",
-            "open_issues": 201,
+            "open_issues": 200,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
             "stars": 2055,
@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:32:21Z",
-            "open_issues": 336,
+            "last_commit": "2026-08-29T14:46:30Z",
+            "open_issues": 337,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 929,
@@ -273,7 +273,7 @@
             "open_issues": 234,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27142,
+            "stars": 27144,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -386,11 +386,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T16:11:43Z",
+            "last_commit": "2026-08-29T17:15:19Z",
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3472,
+            "stars": 3471,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -458,7 +458,7 @@
             "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1848,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:32:21Z",
-            "open_issues": 336,
+            "last_commit": "2026-08-29T14:46:30Z",
+            "open_issues": 337,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 929,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:00.802Z",
+    "last_updated": "2026-08-29T17:17:53.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
