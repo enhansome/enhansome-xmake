@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-27T19:55:07Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
             "stars": 2055,
@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:49:31Z",
-            "open_issues": 342,
+            "last_commit": "2026-09-07T16:10:16Z",
+            "open_issues": 341,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 934,
+            "stars": 933,
             "topics": [
               "build",
               "cross-platform",
@@ -269,11 +269,11 @@
             "id": 14812739,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:56:09Z",
+            "last_commit": "2026-09-07T14:32:25Z",
             "open_issues": 234,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27159,
+            "stars": 27161,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4807,
+            "stars": 4806,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -386,11 +386,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:16:29Z",
+            "last_commit": "2026-09-07T15:08:19Z",
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3489,
+            "stars": 3490,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -552,6 +552,35 @@
         },
         {
           "node_type": "item",
+          "title": "gbox",
+          "description": "：A multi-platform 2d graphic library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "🎨 A multi-platform graphic library",
+            "homepage": "https://tboox.org",
+            "id": 23615667,
+            "language": "C",
+            "license": "Apache-2.0",
+            "last_commit": "2023-10-10T03:47:05Z",
+            "open_issues": 0,
+            "owner": "tboox",
+            "repo": "gbox",
+            "stars": 269,
+            "topics": [
+              "algorithm",
+              "drawing",
+              "framebuffer",
+              "glut",
+              "graphics-library",
+              "opengles",
+              "sdl"
+            ]
+          },
+          "first_seen": "2026-08-28T23:08:13.505Z"
+        },
+        {
+          "node_type": "item",
           "title": "ElementZero",
           "description": "Run windows version of BDS in linux with Mod support",
           "children": [],
@@ -572,35 +601,6 @@
               "bedrock-server-mod",
               "minecraft",
               "mod-support"
-            ]
-          },
-          "first_seen": "2026-08-28T23:08:13.505Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gbox",
-          "description": "：A multi-platform 2d graphic library",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🎨 A multi-platform graphic library",
-            "homepage": "https://tboox.org",
-            "id": 23615667,
-            "language": "C",
-            "license": "Apache-2.0",
-            "last_commit": "2023-10-10T03:47:05Z",
-            "open_issues": 0,
-            "owner": "tboox",
-            "repo": "gbox",
-            "stars": 268,
-            "topics": [
-              "algorithm",
-              "drawing",
-              "framebuffer",
-              "glut",
-              "graphics-library",
-              "opengles",
-              "sdl"
             ]
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -1768,11 +1768,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:49:31Z",
-            "open_issues": 342,
+            "last_commit": "2026-09-07T16:10:16Z",
+            "open_issues": 341,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 934,
+            "stars": 933,
             "topics": [
               "build",
               "cross-platform",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T16:22:42.419Z",
+    "last_updated": "2026-09-07T18:19:05.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
