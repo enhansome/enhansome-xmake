@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:52:59Z",
-            "open_issues": 343,
+            "last_commit": "2026-09-10T15:28:09Z",
+            "open_issues": 348,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 933,
@@ -81,7 +81,7 @@
                 "open_issues": 72,
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "editor-plugin",
                   "lua",
@@ -273,7 +273,7 @@
             "open_issues": 236,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27164,
+            "stars": 27166,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4805,
+            "stars": 4806,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -390,7 +390,7 @@
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3492,
+            "stars": 3495,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -458,7 +458,7 @@
             "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1859,
+            "stars": 1860,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -617,7 +617,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-09T11:54:33Z",
+            "last_commit": "2026-09-10T16:54:24Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -642,7 +642,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-09T11:54:33Z",
+            "last_commit": "2026-09-10T16:54:24Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:52:59Z",
-            "open_issues": 343,
+            "last_commit": "2026-09-10T15:28:09Z",
+            "open_issues": 348,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 933,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:12:58.987Z",
+    "last_updated": "2026-09-10T17:03:32.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
