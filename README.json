@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T15:28:09Z",
-            "open_issues": 348,
+            "last_commit": "2026-09-11T01:39:06Z",
+            "open_issues": 347,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "build",
               "cross-platform",
@@ -270,10 +270,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-08T16:02:49Z",
-            "open_issues": 236,
+            "open_issues": 239,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27166,
+            "stars": 27165,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -303,7 +303,7 @@
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5124,
+            "stars": 5123,
             "topics": [
               "algorithm",
               "container",
@@ -361,7 +361,7 @@
             "open_issues": 15,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4210,
+            "stars": 4209,
             "topics": [
               "benchmark",
               "coroutine",
@@ -390,7 +390,7 @@
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3495,
+            "stars": 3497,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -458,7 +458,7 @@
             "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1860,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -617,7 +617,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-10T16:54:24Z",
+            "last_commit": "2026-09-11T11:33:51Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -642,7 +642,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-10T16:54:24Z",
+            "last_commit": "2026-09-11T11:33:51Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -1768,11 +1768,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T15:28:09Z",
-            "open_issues": 348,
+            "last_commit": "2026-09-11T01:39:06Z",
+            "open_issues": 347,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "build",
               "cross-platform",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:03:32.870Z",
+    "last_updated": "2026-09-11T17:04:22.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
