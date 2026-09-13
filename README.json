@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T03:11:23Z",
-            "open_issues": 350,
+            "last_commit": "2026-09-13T12:24:15Z",
+            "open_issues": 349,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 934,
@@ -81,7 +81,7 @@
                 "open_issues": 72,
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "editor-plugin",
                   "lua",
@@ -273,7 +273,7 @@
             "open_issues": 239,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27163,
+            "stars": 27161,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -299,7 +299,7 @@
             "id": 1595099,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T04:17:36Z",
+            "last_commit": "2026-09-13T14:52:23Z",
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
@@ -386,11 +386,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:49:44Z",
+            "last_commit": "2026-09-12T20:21:04Z",
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3499,
+            "stars": 3501,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -420,7 +420,7 @@
             "open_issues": 40,
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3103,
+            "stars": 3104,
             "topics": [
               "coroutine",
               "cplusplus",
@@ -455,10 +455,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-21T04:54:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1867,
+            "stars": 1869,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -512,7 +512,7 @@
             "open_issues": 6,
             "owner": "tboox",
             "repo": "ltui",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "curses",
               "lua",
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T03:11:23Z",
-            "open_issues": 350,
+            "last_commit": "2026-09-13T12:24:15Z",
+            "open_issues": 349,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 934,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:24:49.507Z",
+    "last_updated": "2026-09-13T17:00:31.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
