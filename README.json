@@ -19,7 +19,7 @@
             "open_issues": 211,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
-            "stars": 2057,
+            "stars": 2056,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -42,7 +42,7 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T15:18:53Z",
+            "last_commit": "2026-09-19T14:55:45Z",
             "open_issues": 337,
             "owner": "xmake-io",
             "repo": "xmake-repo",
@@ -273,7 +273,7 @@
             "open_issues": 233,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27176,
+            "stars": 27179,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4806,
+            "stars": 4807,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -352,16 +352,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A minimalist Swiss Army knife for C++.",
+            "description": "A tasteful, minimal C++ base library.",
             "homepage": null,
             "id": 220810918,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T05:19:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-19T15:35:45Z",
+            "open_issues": 3,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4213,
+            "stars": 4214,
             "topics": [
               "benchmark",
               "coroutine",
@@ -390,7 +390,7 @@
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3514,
+            "stars": 3516,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -475,7 +475,7 @@
             "id": 196094870,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-18T00:01:05Z",
+            "last_commit": "2026-09-19T06:18:11Z",
             "open_issues": 159,
             "owner": "StereoKit",
             "repo": "StereoKit",
@@ -1768,7 +1768,7 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T15:18:53Z",
+            "last_commit": "2026-09-19T14:55:45Z",
             "open_issues": 337,
             "owner": "xmake-io",
             "repo": "xmake-repo",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:08:17.016Z",
+    "last_updated": "2026-09-19T16:38:55.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
