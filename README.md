@@ -87,7 +87,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 936 | 🐛 338 | 🌐 Xmake | 📅 2026-09-21: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 937 | 🐛 343 | 🌐 Xmake | 📅 2026-09-22: An official xmake package repository
 
 ## Plugins
 
@@ -101,7 +101,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 #### IDE/Editor Plugins
 
-* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 276 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-19: A VSCode plugin for xmake
+* [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 275 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-19: A VSCode plugin for xmake
 * [xmake-idea](https://github.com/xmake-io/xmake-idea) ⭐ 107 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-18: A Intellij-IDEA plugin for xmake
 * [xmake-gradle](https://github.com/xmake-io/xmake-gradle) ⭐ 59 | 🐛 3 | 🌐 Groovy | 📅 2025-05-11: A gradle plugin that integrates xmake seamlessly.
 * [xmake.vim](https://github.com/luzhlon/xmake.vim) ⭐ 36 | 🐛 1 | 🌐 Vim script | 📅 2018-12-15: A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
@@ -111,14 +111,14 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,182 | 🐛 234 | 🌐 C | 📅 2026-09-21: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,184 | 🐛 235 | 🌐 C | 📅 2026-09-21: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,122 | 🐛 37 | 🌐 C | 📅 2026-09-15: A glib-like multi-platform c library
 * [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,803 | 🐛 40 | 🌐 C++ | 📅 2026-05-09: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 * [co](https://github.com/idealvin/co) ⭐ 4,214 | 🐛 3 | 🌐 C++ | 📅 2026-09-21: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,519 | 🐛 4 | 🌐 C++ | 📅 2026-09-20: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,524 | 🐛 4 | 🌐 C++ | 📅 2026-09-22: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,104 | 🐛 40 | 🌐 C | 📅 2026-09-14: An advanced C/C++ Network library
 * [zsign](https://github.com/zhlynn/zsign) ⭐ 1,871 | 🐛 2 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
-* [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,079 | 🐛 159 | 🌐 C++ | 📅 2026-09-19: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
+* [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,080 | 🐛 159 | 🌐 C++ | 📅 2026-09-22: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
 * [ltui](https://github.com/tboox/ltui) ⭐ 875 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 537 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
 * [gbox](https://github.com/tboox/gbox) ⚠️ Archived：A multi-platform 2d graphic library
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 936 | 🐛 338 | 🌐 Xmake | 📅 2026-09-21: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 937 | 🐛 343 | 🌐 Xmake | 📅 2026-09-22: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
