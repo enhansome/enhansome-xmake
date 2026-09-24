@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-20T12:07:01Z",
-            "open_issues": 201,
+            "open_issues": 202,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
             "stars": 2056,
@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T13:08:15Z",
-            "open_issues": 349,
+            "last_commit": "2026-09-24T10:35:54Z",
+            "open_issues": 350,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 938,
+            "stars": 939,
             "topics": [
               "build",
               "cross-platform",
@@ -269,11 +269,11 @@
             "id": 14812739,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-21T17:25:53Z",
-            "open_issues": 243,
+            "last_commit": "2026-09-24T14:46:45Z",
+            "open_issues": 240,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27197,
+            "stars": 27196,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4804,
+            "stars": 4805,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -378,16 +378,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。",
+            "description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting",
             "homepage": "http://hikyuu.org/",
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T08:34:00Z",
+            "last_commit": "2026-09-24T17:24:40Z",
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3523,
+            "stars": 3526,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -417,7 +417,7 @@
             "open_issues": 40,
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3104,
+            "stars": 3103,
             "topics": [
               "coroutine",
               "cplusplus",
@@ -455,7 +455,7 @@
             "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1871,
+            "stars": 1873,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -476,7 +476,7 @@
             "open_issues": 159,
             "owner": "StereoKit",
             "repo": "StereoKit",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "ar",
               "augmented-reality",
@@ -1765,11 +1765,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T13:08:15Z",
-            "open_issues": 349,
+            "last_commit": "2026-09-24T10:35:54Z",
+            "open_issues": 350,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 938,
+            "stars": 939,
             "topics": [
               "build",
               "cross-platform",
@@ -1811,7 +1811,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:54:06.177Z",
+    "last_updated": "2026-09-24T17:54:07.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
