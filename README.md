@@ -81,13 +81,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Documents
 
-* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 210 | 🌐 Python | 📅 2026-09-20: Thanks [@kassane](https://github.com/kassane)
+* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 211 | 🌐 Python | 📅 2026-09-20: Thanks [@kassane](https://github.com/kassane)
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 356 | 🌐 Xmake | 📅 2026-10-04: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 354 | 🌐 Xmake | 📅 2026-10-05: An official xmake package repository
 
 ## Plugins
 
@@ -111,11 +111,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,225 | 🐛 245 | 🌐 C | 📅 2026-10-01: Add xmake.lua file to make it easier to build libuv
-* [tbox](https://github.com/tboox/tbox) ⭐ 5,123 | 🐛 37 | 🌐 C | 📅 2026-09-15: A glib-like multi-platform c library
-* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,803 | 🐛 41 | 🌐 C++ | 📅 2026-10-01: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,225 | 🐛 244 | 🌐 C | 📅 2026-10-05: Add xmake.lua file to make it easier to build libuv
+* [tbox](https://github.com/tboox/tbox) ⭐ 5,122 | 🐛 37 | 🌐 C | 📅 2026-09-15: A glib-like multi-platform c library
+* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,802 | 🐛 41 | 🌐 C++ | 📅 2026-10-01: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
 * [co](https://github.com/idealvin/co) ⭐ 4,215 | 🐛 3 | 🌐 C++ | 📅 2026-09-28: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,544 | 🐛 4 | 🌐 C++ | 📅 2026-10-04: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,550 | 🐛 4 | 🌐 C++ | 📅 2026-10-04: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,103 | 🐛 40 | 🌐 C | 📅 2026-09-14: An advanced C/C++ Network library
 * [zsign](https://github.com/zhlynn/zsign) ⭐ 1,884 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,082 | 🐛 159 | 🌐 C++ | 📅 2026-10-03: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 356 | 🌐 Xmake | 📅 2026-10-04: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 354 | 🌐 Xmake | 📅 2026-10-05: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
