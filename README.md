@@ -81,13 +81,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Documents
 
-* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 214 | 🌐 Python | 📅 2026-09-20: Thanks [@kassane](https://github.com/kassane)
+* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,056 | 🐛 215 | 🌐 Python | 📅 2026-09-20: Thanks [@kassane](https://github.com/kassane)
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 362 | 🌐 Xmake | 📅 2026-10-08: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 363 | 🌐 Xmake | 📅 2026-10-09: An official xmake package repository
 
 ## Plugins
 
@@ -102,7 +102,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 #### IDE/Editor Plugins
 
 * [xmake-vscode](https://github.com/xmake-io/xmake-vscode) ⭐ 275 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-19: A VSCode plugin for xmake
-* [xmake-idea](https://github.com/xmake-io/xmake-idea) ⭐ 107 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-03: A Intellij-IDEA plugin for xmake
+* [xmake-idea](https://github.com/xmake-io/xmake-idea) ⭐ 107 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-09: A Intellij-IDEA plugin for xmake
 * [xmake-gradle](https://github.com/xmake-io/xmake-gradle) ⭐ 59 | 🐛 3 | 🌐 Groovy | 📅 2025-05-11: A gradle plugin that integrates xmake seamlessly.
 * [xmake.vim](https://github.com/luzhlon/xmake.vim) ⭐ 36 | 🐛 1 | 🌐 Vim script | 📅 2018-12-15: A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
 * [xmake-qtcreator](https://github.com/Arthapz/xmake-project-manager) ⚠️ Archived (third-party, thanks [@Arthapz](https://github.com/Arthapz))
@@ -111,13 +111,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,230 | 🐛 245 | 🌐 C | 📅 2026-10-07: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,233 | 🐛 246 | 🌐 C | 📅 2026-10-07: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,121 | 🐛 37 | 🌐 C | 📅 2026-09-15: A glib-like multi-platform c library
-* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,801 | 🐛 42 | 🌐 C++ | 📅 2026-10-01: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
-* [co](https://github.com/idealvin/co) ⭐ 4,216 | 🐛 3 | 🌐 C++ | 📅 2026-09-28: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,555 | 🐛 4 | 🌐 C++ | 📅 2026-10-08: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
-* [libacl](https://github.com/acl-dev/acl) ⭐ 3,104 | 🐛 40 | 🌐 C | 📅 2026-10-07: An advanced C/C++ Network library
-* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,885 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,804 | 🐛 42 | 🌐 C++ | 📅 2026-10-01: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+* [co](https://github.com/idealvin/co) ⭐ 4,216 | 🐛 4 | 🌐 C++ | 📅 2026-09-28: An elegant and efficient C++ basic library for Linux, Windows and Mac.
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,555 | 🐛 4 | 🌐 C++ | 📅 2026-10-09: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [libacl](https://github.com/acl-dev/acl) ⭐ 3,103 | 🐛 40 | 🌐 C | 📅 2026-10-07: An advanced C/C++ Network library
+* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,888 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,083 | 🐛 159 | 🌐 C++ | 📅 2026-10-08: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
 * [ltui](https://github.com/tboox/ltui) ⭐ 876 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 538 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 362 | 🌐 Xmake | 📅 2026-10-08: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 363 | 🌐 Xmake | 📅 2026-10-09: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
