@@ -87,7 +87,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 363 | 🌐 Xmake | 📅 2026-10-09: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 367 | 🌐 Xmake | 📅 2026-10-10: An official xmake package repository
 
 ## Plugins
 
@@ -111,14 +111,14 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,233 | 🐛 246 | 🌐 C | 📅 2026-10-07: Add xmake.lua file to make it easier to build libuv
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,240 | 🐛 245 | 🌐 C | 📅 2026-10-10: Add xmake.lua file to make it easier to build libuv
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,121 | 🐛 37 | 🌐 C | 📅 2026-09-15: A glib-like multi-platform c library
 * [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,804 | 🐛 42 | 🌐 C++ | 📅 2026-10-01: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
-* [co](https://github.com/idealvin/co) ⭐ 4,216 | 🐛 4 | 🌐 C++ | 📅 2026-09-28: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,555 | 🐛 4 | 🌐 C++ | 📅 2026-10-09: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
-* [libacl](https://github.com/acl-dev/acl) ⭐ 3,103 | 🐛 40 | 🌐 C | 📅 2026-10-07: An advanced C/C++ Network library
-* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,888 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
-* [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,083 | 🐛 159 | 🌐 C++ | 📅 2026-10-08: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
+* [co](https://github.com/idealvin/co) ⭐ 4,217 | 🐛 4 | 🌐 C++ | 📅 2026-09-28: An elegant and efficient C++ basic library for Linux, Windows and Mac.
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,556 | 🐛 4 | 🌐 C++ | 📅 2026-10-10: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [libacl](https://github.com/acl-dev/acl) ⭐ 3,103 | 🐛 40 | 🌐 C | 📅 2026-10-10: An advanced C/C++ Network library
+* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,889 | 🐛 1 | 🌐 C++ | 📅 2026-08-21: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,084 | 🐛 159 | 🌐 C++ | 📅 2026-10-09: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
 * [ltui](https://github.com/tboox/ltui) ⭐ 876 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 538 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
 * [gbox](https://github.com/tboox/gbox) ⚠️ Archived：A multi-platform 2d graphic library
@@ -139,7 +139,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [websocket-cpp](https://github.com/luzhlon/websocket-cpp) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2017-07-23: websocket-protocol's implementation with multithread synchronization model in C++
 * [libfiber](https://github.com/acl-dev/libfiber) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2025-04-26: The high performance coroutine library for Linux/FreeBSD/Windows, supporting select/poll/epoll/kqueue/iocp/windows GUI
 * [sciter-todolist](https://github.com/lidroid/sciter-todolist) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2017-04-18: A WunderList-like TODO list based on sciter
-* [TiltedConnect](https://github.com/tiltedphoques/TiltedConnect) ⭐ 14 | 🐛 1 | 🌐 C++ | 📅 2026-01-08: Top layer of the network stack
+* [TiltedConnect](https://github.com/tiltedphoques/TiltedConnect) ⭐ 14 | 🐛 1 | 🌐 C++ | 📅 2026-10-10: Top layer of the network stack
 * [CreviceEngine](https://github.com/wicast/CreviceEngine) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2022-07-28
 * [lcui-router](https://github.com/lc-soft/lcui-router) ⚠️ Archived: A router for control view switching and status in the LCUI applications, it inspired by the Vue Router.
 * [eelua](https://github.com/hilarryxu/eelua) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2021-03-29: A lua script engine for EverEdit
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 363 | 🌐 Xmake | 📅 2026-10-09: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 367 | 🌐 Xmake | 📅 2026-10-10: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
