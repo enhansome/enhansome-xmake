@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T15:12:48Z",
-            "open_issues": 370,
+            "last_commit": "2026-10-17T15:13:19Z",
+            "open_issues": 364,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -106,7 +106,7 @@
                 "id": 108999121,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T04:07:57Z",
+                "last_commit": "2026-10-17T15:34:56Z",
                 "open_issues": 5,
                 "owner": "xmake-io",
                 "repo": "xmake-idea",
@@ -270,10 +270,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-16T13:35:42Z",
-            "open_issues": 244,
+            "open_issues": 249,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27265,
+            "stars": 27268,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -303,7 +303,7 @@
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5123,
+            "stars": 5124,
             "topics": [
               "algorithm",
               "container",
@@ -337,7 +337,7 @@
             "open_issues": 46,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4809,
+            "stars": 4808,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -361,7 +361,7 @@
             "open_issues": 0,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4220,
+            "stars": 4219,
             "topics": [
               "coroutine",
               "flag",
@@ -385,7 +385,7 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T19:56:39Z",
+            "last_commit": "2026-10-17T14:10:02Z",
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
@@ -458,7 +458,7 @@
             "open_issues": 2,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1891,
+            "stars": 1894,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -475,7 +475,7 @@
             "id": 196094870,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:22:34Z",
+            "last_commit": "2026-10-16T21:54:19Z",
             "open_issues": 159,
             "owner": "StereoKit",
             "repo": "StereoKit",
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T15:12:48Z",
-            "open_issues": 370,
+            "last_commit": "2026-10-17T15:13:19Z",
+            "open_issues": 364,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:35:01.657Z",
+    "last_updated": "2026-10-17T16:33:54.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
