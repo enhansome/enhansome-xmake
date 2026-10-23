@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T12:35:59Z",
-            "open_issues": 370,
+            "last_commit": "2026-10-23T08:01:28Z",
+            "open_issues": 373,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 940,
+            "stars": 941,
             "topics": [
               "build",
               "cross-platform",
@@ -81,7 +81,7 @@
                 "open_issues": 71,
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "editor-plugin",
                   "lua",
@@ -270,10 +270,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-21T17:00:59Z",
-            "open_issues": 248,
+            "open_issues": 251,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27279,
+            "stars": 27280,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -299,11 +299,11 @@
             "id": 1595099,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T15:09:54Z",
+            "last_commit": "2026-10-23T05:03:05Z",
             "open_issues": 39,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5124,
+            "stars": 5125,
             "topics": [
               "algorithm",
               "container",
@@ -337,7 +337,7 @@
             "open_issues": 48,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4808,
+            "stars": 4811,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -361,7 +361,7 @@
             "open_issues": 0,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4222,
+            "stars": 4225,
             "topics": [
               "coroutine",
               "flag",
@@ -385,11 +385,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T14:15:09Z",
+            "last_commit": "2026-10-23T15:55:08Z",
             "open_issues": 4,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3570,
+            "stars": 3571,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -458,7 +458,7 @@
             "open_issues": 1,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1916,
+            "stars": 1925,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -617,7 +617,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-22T11:48:18Z",
+            "last_commit": "2026-10-23T11:54:51Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -642,7 +642,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-22T11:48:18Z",
+            "last_commit": "2026-10-23T11:54:51Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -1768,11 +1768,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T12:35:59Z",
-            "open_issues": 370,
+            "last_commit": "2026-10-23T08:01:28Z",
+            "open_issues": 373,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 940,
+            "stars": 941,
             "topics": [
               "build",
               "cross-platform",
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:05:55.310Z",
+    "last_updated": "2026-10-23T17:55:21.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
