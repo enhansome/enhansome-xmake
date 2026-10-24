@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:01:28Z",
-            "open_issues": 373,
+            "last_commit": "2026-10-24T16:40:16Z",
+            "open_issues": 374,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -106,11 +106,11 @@
                 "id": 108999121,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:37:56Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-24T09:36:11Z",
+                "open_issues": 6,
                 "owner": "xmake-io",
                 "repo": "xmake-idea",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "build-system",
                   "cross-platform",
@@ -269,11 +269,11 @@
             "id": 14812739,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-21T17:00:59Z",
-            "open_issues": 251,
+            "last_commit": "2026-10-23T19:12:10Z",
+            "open_issues": 246,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27280,
+            "stars": 27282,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -337,7 +337,7 @@
             "open_issues": 48,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4811,
+            "stars": 4813,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -361,7 +361,7 @@
             "open_issues": 0,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4225,
+            "stars": 4226,
             "topics": [
               "coroutine",
               "flag",
@@ -385,11 +385,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T15:55:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T15:42:23Z",
+            "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3571,
+            "stars": 3574,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -420,7 +420,7 @@
             "open_issues": 40,
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "coroutine",
               "cplusplus",
@@ -458,7 +458,7 @@
             "open_issues": 1,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1925,
+            "stars": 1929,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -479,7 +479,7 @@
             "open_issues": 159,
             "owner": "StereoKit",
             "repo": "StereoKit",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "ar",
               "augmented-reality",
@@ -595,7 +595,7 @@
             "open_issues": 50,
             "owner": "Element-0",
             "repo": "ElementZero",
-            "stars": 269,
+            "stars": 268,
             "topics": [
               "bds",
               "bedrock-server-mod",
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:01:28Z",
-            "open_issues": 373,
+            "last_commit": "2026-10-24T16:40:16Z",
+            "open_issues": 374,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:55:21.273Z",
+    "last_updated": "2026-10-24T16:46:47.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
