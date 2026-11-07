@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:36:43Z",
-            "open_issues": 380,
+            "last_commit": "2026-11-07T16:43:11Z",
+            "open_issues": 377,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -229,7 +229,7 @@
                 "id": 107938509,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T10:01:30Z",
+                "last_commit": "2026-11-07T10:53:56Z",
                 "open_issues": 1,
                 "owner": "xmake-io",
                 "repo": "xmake-sublime",
@@ -270,10 +270,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-05T19:40:20Z",
-            "open_issues": 267,
+            "open_issues": 268,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27312,
+            "stars": 27314,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -303,7 +303,7 @@
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5129,
+            "stars": 5130,
             "topics": [
               "algorithm",
               "container",
@@ -337,7 +337,7 @@
             "open_issues": 49,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4843,
+            "stars": 4844,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -385,11 +385,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T17:20:11Z",
+            "last_commit": "2026-11-07T14:12:47Z",
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3688,
+            "stars": 3689,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -512,7 +512,7 @@
             "open_issues": 6,
             "owner": "tboox",
             "repo": "ltui",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "curses",
               "lua",
@@ -1768,8 +1768,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:36:43Z",
-            "open_issues": 380,
+            "last_commit": "2026-11-07T16:43:11Z",
+            "open_issues": 377,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 941,
@@ -1814,7 +1814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:00:32.049Z",
+    "last_updated": "2026-11-07T18:09:00.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
