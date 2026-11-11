@@ -81,13 +81,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Documents
 
-* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,057 | 🐛 217 | 🌐 Python | 📅 2026-09-20: Thanks [@kassane](https://github.com/kassane)
+* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake) ⭐ 2,057 | 🐛 198 | 🌐 Python | 📅 2026-11-11: Thanks [@kassane](https://github.com/kassane)
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
 
 ## Repositories
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 378 | 🌐 Xmake | 📅 2026-11-10: An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 375 | 🌐 Xmake | 📅 2026-11-11: An official xmake package repository
 
 ## Plugins
 
@@ -111,13 +111,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Projects
 
-* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,318 | 🐛 266 | 🌐 C | 📅 2026-11-09: Add xmake.lua file to make it easier to build libuv
-* [tbox](https://github.com/tboox/tbox) ⭐ 5,130 | 🐛 37 | 🌐 C | 📅 2026-11-08: A glib-like multi-platform c library
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464) ⭐ 27,323 | 🐛 277 | 🌐 C | 📅 2026-11-09: Add xmake.lua file to make it easier to build libuv
+* [tbox](https://github.com/tboox/tbox) ⭐ 5,131 | 🐛 37 | 🌐 C | 📅 2026-11-08: A glib-like multi-platform c library
 * [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) ⭐ 4,849 | 🐛 49 | 🌐 C++ | 📅 2026-11-03: Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
-* [co](https://github.com/idealvin/co) ⭐ 4,229 | 🐛 0 | 🌐 C++ | 📅 2026-10-30: An elegant and efficient C++ basic library for Linux, Windows and Mac.
-* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,705 | 🐛 5 | 🌐 C++ | 📅 2026-11-10: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [co](https://github.com/idealvin/co) ⭐ 4,228 | 🐛 1 | 🌐 C++ | 📅 2026-10-30: An elegant and efficient C++ basic library for Linux, Windows and Mac.
+* [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,711 | 🐛 5 | 🌐 C++ | 📅 2026-11-11: Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [libacl](https://github.com/acl-dev/acl) ⭐ 3,106 | 🐛 40 | 🌐 C | 📅 2026-10-12: An advanced C/C++ Network library
-* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,951 | 🐛 3 | 🌐 C++ | 📅 2026-10-20: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [zsign](https://github.com/zhlynn/zsign) ⭐ 1,954 | 🐛 3 | 🌐 C++ | 📅 2026-10-20: Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 * [StereoKit](https://github.com/maluoi/StereoKit) ⭐ 1,093 | 🐛 161 | 🌐 C++ | 📅 2026-11-04: An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
 * [ltui](https://github.com/tboox/ltui) ⭐ 877 | 🐛 6 | 🌐 C | 📅 2024-08-07：A cross-platform terminal ui library based on Lua
 * [vm86](https://github.com/tboox/vm86) ⭐ 539 | 🐛 1 | 🌐 C | 📅 2021-11-02：The x86 Script Instruction Virtual Machine
@@ -201,11 +201,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 378 | 🌐 Xmake | 📅 2026-11-10: A package repository based on xmake
+* [xmake-repo](https://github.com/xmake-io/xmake-repo) ⭐ 941 | 🐛 375 | 🌐 Xmake | 📅 2026-11-11: A package repository based on xmake
 * [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-13: Set up your GitHub Actions workflow with a specific version of xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
