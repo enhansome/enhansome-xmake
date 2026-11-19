@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-17T10:53:12Z",
-            "open_issues": 202,
+            "open_issues": 204,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
             "stars": 2058,
@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:30:40Z",
-            "open_issues": 376,
+            "last_commit": "2026-11-19T17:48:51Z",
+            "open_issues": 374,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 942,
+            "stars": 943,
             "topics": [
               "build",
               "cross-platform",
@@ -270,11 +270,11 @@
             "id": 14812739,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-16T12:49:58Z",
+            "last_commit": "2026-11-19T18:32:27Z",
             "open_issues": 278,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27337,
+            "stars": 27338,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -304,7 +304,7 @@
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5129,
+            "stars": 5128,
             "topics": [
               "algorithm",
               "container",
@@ -335,10 +335,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T01:45:21Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4851,
+            "stars": 4853,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -390,7 +390,7 @@
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3733,
+            "stars": 3732,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -421,7 +421,7 @@
             "open_issues": 40,
             "owner": "acl-dev",
             "repo": "acl",
-            "stars": 3108,
+            "stars": 3107,
             "topics": [
               "coroutine",
               "cplusplus",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1962,
+            "stars": 1965,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -541,7 +541,7 @@
             "open_issues": 1,
             "owner": "tboox",
             "repo": "vm86",
-            "stars": 539,
+            "stars": 538,
             "topics": [
               "assembly",
               "i386",
@@ -596,7 +596,7 @@
             "open_issues": 50,
             "owner": "Element-0",
             "repo": "ElementZero",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "bds",
               "bedrock-server-mod",
@@ -618,7 +618,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-18T17:08:25Z",
+            "last_commit": "2026-11-19T01:33:54Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -643,7 +643,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-18T17:08:25Z",
+            "last_commit": "2026-11-19T01:33:54Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -1769,11 +1769,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:30:40Z",
-            "open_issues": 376,
+            "last_commit": "2026-11-19T17:48:51Z",
+            "open_issues": 374,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 942,
+            "stars": 943,
             "topics": [
               "build",
               "cross-platform",
@@ -1815,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:29:49.619Z",
+    "last_updated": "2026-11-19T21:42:24.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
