@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-17T10:53:12Z",
-            "open_issues": 204,
+            "open_issues": 205,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
             "stars": 2058,
@@ -42,11 +42,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T17:48:51Z",
-            "open_issues": 374,
+            "last_commit": "2026-11-20T13:43:15Z",
+            "open_issues": 379,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "build",
               "cross-platform",
@@ -81,7 +81,7 @@
                 "open_issues": 70,
                 "owner": "xmake-io",
                 "repo": "xmake-vscode",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "editor-plugin",
                   "lua",
@@ -271,10 +271,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-19T18:32:27Z",
-            "open_issues": 278,
+            "open_issues": 279,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27338,
+            "stars": 27341,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4228,
+            "stars": 4229,
             "topics": [
               "coroutine",
               "flag",
@@ -386,11 +386,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:57:49Z",
+            "last_commit": "2026-11-20T16:54:29Z",
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3732,
+            "stars": 3733,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1965,
+            "stars": 1967,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -1769,11 +1769,11 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T17:48:51Z",
-            "open_issues": 374,
+            "last_commit": "2026-11-20T13:43:15Z",
+            "open_issues": 379,
             "owner": "xmake-io",
             "repo": "xmake-repo",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "build",
               "cross-platform",
@@ -1815,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:42:24.975Z",
+    "last_updated": "2026-11-20T21:24:26.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
