@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T13:43:15Z",
-            "open_issues": 379,
+            "last_commit": "2026-11-21T05:42:28Z",
+            "open_issues": 385,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 944,
@@ -271,10 +271,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-19T18:32:27Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27341,
+            "stars": 27344,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -335,10 +335,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T01:45:21Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "maximegmd",
             "repo": "CyberEngineTweaks",
-            "stars": 4853,
+            "stars": 4855,
             "topics": [
               "cyberpunk",
               "cyberpunk2077"
@@ -386,7 +386,7 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T16:54:29Z",
+            "last_commit": "2026-11-21T10:16:15Z",
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1967,
+            "stars": 1970,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -596,7 +596,7 @@
             "open_issues": 50,
             "owner": "Element-0",
             "repo": "ElementZero",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "bds",
               "bedrock-server-mod",
@@ -1769,8 +1769,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T13:43:15Z",
-            "open_issues": 379,
+            "last_commit": "2026-11-21T05:42:28Z",
+            "open_issues": 385,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 944,
@@ -1815,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:24:26.913Z",
+    "last_updated": "2026-11-21T20:11:12.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
