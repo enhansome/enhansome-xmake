@@ -19,7 +19,7 @@
             "open_issues": 208,
             "owner": "Kapeli",
             "repo": "Dash-User-Contributions",
-            "stars": 2059,
+            "stars": 2060,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -42,8 +42,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:47:21Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-26T18:48:22Z",
+            "open_issues": 365,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 944,
@@ -271,10 +271,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-25T04:30:04Z",
-            "open_issues": 285,
+            "open_issues": 286,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27350,
+            "stars": 27354,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -304,7 +304,7 @@
             "open_issues": 37,
             "owner": "tboox",
             "repo": "tbox",
-            "stars": 5130,
+            "stars": 5129,
             "topics": [
               "algorithm",
               "container",
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "idealvin",
             "repo": "coost",
-            "stars": 4229,
+            "stars": 4230,
             "topics": [
               "coroutine",
               "flag",
@@ -386,11 +386,11 @@
             "id": 5103141,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T09:01:00Z",
+            "last_commit": "2026-11-26T17:17:55Z",
             "open_issues": 5,
             "owner": "fasiondog",
             "repo": "hikyuu",
-            "stars": 3740,
+            "stars": 3768,
             "topics": [
               "algorithms-trading",
               "backtesting",
@@ -459,7 +459,7 @@
             "open_issues": 4,
             "owner": "zhlynn",
             "repo": "zsign",
-            "stars": 1971,
+            "stars": 1972,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -541,7 +541,7 @@
             "open_issues": 1,
             "owner": "tboox",
             "repo": "vm86",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "assembly",
               "i386",
@@ -618,7 +618,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-25T11:54:54Z",
+            "last_commit": "2026-11-26T17:36:57Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -643,7 +643,7 @@
             "id": 99512138,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-25T11:54:54Z",
+            "last_commit": "2026-11-26T17:36:57Z",
             "open_issues": 0,
             "owner": "zxlxz",
             "repo": "sfc",
@@ -759,7 +759,7 @@
             "open_issues": 2,
             "owner": "SaeruHikari",
             "repo": "SakuraEngine-Old",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:13.505Z"
@@ -1769,8 +1769,8 @@
             "id": 87712244,
             "language": "Xmake",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:47:21Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-26T18:48:22Z",
+            "open_issues": 365,
             "owner": "xmake-io",
             "repo": "xmake-repo",
             "stars": 944,
@@ -1815,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:38:59.284Z",
+    "last_updated": "2026-11-26T22:29:15.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "💕 A curated list of awesome XMake projects, plugins, examples and others",
